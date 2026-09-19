@@ -1,4 +1,10 @@
+Apresentação pessoal:
+x
+Atividade realizada no exel respondendo perguntas de Dados abertos da ANTT:
 <img width="1849" height="846" alt="Captura de tela 2026-09-18 212007" src="https://github.com/user-attachments/assets/f91a542e-023c-4414-86f7-1ea43d68f9fb" />
+atividade exel 2:
+****<img width="1832" height="828" alt="image" src="https://github.com/user-attachments/assets/16c050e9-9158-4726-8b86-e091cac907fd" />
+
 # Fonte-de-informa-o-e-banco-de-dados-
 Atividades desenvolvidas durante o 1° semestre em Fonte de informações e banco de dados. GPI-FATEC
 ## Analise de Dados abertos por meio de Dashbord 
