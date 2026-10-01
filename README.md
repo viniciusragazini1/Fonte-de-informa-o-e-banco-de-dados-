@@ -5,10 +5,23 @@ Atividades desenvolvidas durante o 1° semestre em Fonte de informações e banc
 <img width="1919" height="940" alt="image" src="https://github.com/user-attachments/assets/6e8eb0dd-5b49-4d86-ba6f-0a78c0fe0166" />
 
 # Atividade realizada no exel respondendo perguntas de Dados abertos da ANTT:
+Pergunta analisada: "Qual Estado possui o maior numero de empresas habilitadas como OMT?"
+Resposta obtida: "SP possui 569 empresas, de um total de 1377 (0.41%). 
 <img width="1849" height="846" alt="Captura de tela 2026-09-18 212007" src="https://github.com/user-attachments/assets/f91a542e-023c-4414-86f7-1ea43d68f9fb" />
 
 # Atividade exel 2, respondendo 4 pergutas sobre os dados da ANTT e construção de graficos:
-
+Perguntas analisadas: 
+1- Qual a população total dos municípios presentes no conjunto de dados?
+2- Qual é o município com maior população?
+3- Qual é o município com menor população?
+4- Qual é a população média dos municípios?
+5- 4. Qual é a população média dos municípios?
+Respostas obtidas: 
+1- 22760101680
+2-Estiva Gerbi — 35.573.030
+3-Estado de São Paulo — 350
+4-35232355,5417957
+5-35572680
 ****<img width="1832" height="828" alt="image" src="https://github.com/user-attachments/assets/16c050e9-9158-4726-8b86-e091cac907fd" />
 
 ## Analise de Dados abertos por meio de Dashbord 
