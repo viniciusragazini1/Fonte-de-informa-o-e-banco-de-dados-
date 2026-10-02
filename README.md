@@ -9,6 +9,9 @@ https://canva.link/me34hcfep2gwnjr
 Pergunta analisada: "Qual Estado possui o maior numero de empresas habilitadas como OMT?"
 Resposta obtida: "SP possui 569 empresas, de um total de 1377 (0.41%). 
 <img width="1849" height="846" alt="Captura de tela 2026-09-18 212007" src="https://github.com/user-attachments/assets/f91a542e-023c-4414-86f7-1ea43d68f9fb" />
+ [Empresas_habilitadas_OTM_ANTT_analise.xlsx](https://github.com/user-attachments/files/32985187/Empresas_habilitadas_OTM_ANTT_analise.xlsx)
+
+
 
 # Atividade exel 2, respondendo 4 pergutas sobre os dados da ANTT e construção de graficos:
 Perguntas analisadas: 
