@@ -3,6 +3,7 @@ Atividades desenvolvidas durante o 1° semestre em Fonte de informações e banc
 
 # Apresentação pessoal:
 <img width="1919" height="940" alt="image" src="https://github.com/user-attachments/assets/6e8eb0dd-5b49-4d86-ba6f-0a78c0fe0166" />
+https://canva.link/me34hcfep2gwnjr
 
 # Atividade realizada no exel respondendo perguntas de Dados abertos da ANTT:
 Pergunta analisada: "Qual Estado possui o maior numero de empresas habilitadas como OMT?"
