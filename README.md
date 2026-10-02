@@ -32,3 +32,7 @@ Analise: A- Quantas OTMs existem em cada cidade do Brasil?
 https://github.com/viniciusragazini1/Fonte-de-informa-o-e-banco-de-dados-/blob/main/empresasmultimodais.pbix
 
 Observando e interagindo com a visualização a cima, Manaus (87) possuí mais empresas certificadas do que São José dos Campos (4). Em razão da posição geográfica dos locais, e que Manaus é um polo industrial local.
+
+#Construção da atividade de 5 perguntas no Power bi analisando dados da ANTT:
+<img width="1866" height="792" alt="image" src="https://github.com/user-attachments/assets/fd7e5256-d6d1-4193-b0de-076883c0f8a5" />
+
