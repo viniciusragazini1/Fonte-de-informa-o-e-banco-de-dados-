@@ -1,5 +1,5 @@
 # Fonte-de-informa-o-e-banco-de-dados-
-Atividades desenvolvidas durante o 1° semestre em Fonte de informações e banco de dados. GPI-FATEC
+Atividades desenvolvidas durante o 1° semestre em Fonte de informações e banco de dados. GPI-FATEC VINICIUS RAGAZINI 
 
 # Apresentação pessoal:
 <img width="1919" height="940" alt="image" src="https://github.com/user-attachments/assets/6e8eb0dd-5b49-4d86-ba6f-0a78c0fe0166" />
