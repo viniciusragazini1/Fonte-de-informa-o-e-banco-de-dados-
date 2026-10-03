@@ -16,17 +16,29 @@ Link do arquivo: [Empresas_habilitadas_OTM_ANTT_analise.xlsx](https://github.com
 
 # Atividade Excel 2, respondendo 4 perguntas sobre os dados da ANTT e construção de gráficos:
 Perguntas analisadas: 
+
 1- Qual a população total dos municípios presentes no conjunto de dados?
+
 2- Qual é o município com maior população?
+
 3- Qual é o município com menor população?
+
 4- Qual é a população média dos municípios?
+
 5- 4. Qual é a população média dos municípios?
+
 Respostas obtidas: 
+
 1- 22760101680
+
 2-Estiva Gerbi — 35.573.030
+
 3-Estado de São Paulo — 350
+
 4-35232355,5417957
+
 5-35572680
+
 ****<img width="1832" height="828" alt="image" src="https://github.com/user-attachments/assets/16c050e9-9158-4726-8b86-e091cac907fd" />
 Link do arquivo: [Censo2022_5_perguntas.xlsx](https://github.com/user-attachments/files/32985262/Censo2022_5_perguntas.xlsx)
 
