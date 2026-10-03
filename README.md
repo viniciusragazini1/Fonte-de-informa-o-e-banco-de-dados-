@@ -6,7 +6,7 @@ Atividade em grupo, tem por objetivo a apresentação e desenvolvimento de softs
 <img width="1919" height="940" alt="image" src="https://github.com/user-attachments/assets/6e8eb0dd-5b49-4d86-ba6f-0a78c0fe0166" />
 Link do arquivo: https://canva.link/me34hcfep2gwnjr
 
-# Atividade realizada no exel respondendo perguntas de Dados abertos da ANTT:
+# Atividade realizada no Excel respondendo perguntas de Dados abertos da ANTT:
 Pergunta analisada: "Qual Estado possui o maior numero de empresas habilitadas como OMT?"
 Resposta obtida: "SP possui 569 empresas, de um total de 1377 (0.41%). 
 <img width="1849" height="846" alt="Captura de tela 2026-09-18 212007" src="https://github.com/user-attachments/assets/f91a542e-023c-4414-86f7-1ea43d68f9fb" />
@@ -14,7 +14,7 @@ Link do arquivo: [Empresas_habilitadas_OTM_ANTT_analise.xlsx](https://github.com
 
 
 
-# Atividade exel 2, respondendo 4 pergutas sobre os dados da ANTT e construção de graficos:
+# Atividade Excel 2, respondendo 4 perguntas sobre os dados da ANTT e construção de gráficos:
 Perguntas analisadas: 
 1- Qual a população total dos municípios presentes no conjunto de dados?
 2- Qual é o município com maior população?
@@ -46,7 +46,7 @@ Arquivo do Power BI: (https://centropaulasouza-my.sharepoint.com/:u:/r/personal/
 # Construção da atividade de 5 perguntas no Power bi analisando dados da ANTT:
 Analise do arquivo da ANTT e resposta de 5 perguntas relacionadas com a Situação de Vigência e Adesão ao Decreto 1.563/95:
 <img width="1866" height="792" alt="image" src="https://github.com/user-attachments/assets/fd7e5256-d6d1-4193-b0de-076883c0f8a5" />
-Arquivo em construção: Transferindo arquivo do exel para o power BI:
+Arquivo em construção: Transferindo arquivo do Excel para o Power BI:
 [PowerBI_Operadores_Transporte_Multimodal.xlsx](https://github.com/user-attachments/files/32985512/PowerBI_Operadores_Transporte_Multimodal.xlsx)
 
 
