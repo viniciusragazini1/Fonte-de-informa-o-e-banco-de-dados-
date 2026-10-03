@@ -2,7 +2,7 @@
 Atividades desenvolvidas durante o 1° semestre em Fonte de informações e banco de dados. GPI-FATEC VINICIUS RAGAZINI 
 
 # Apresentação pessoal:
-Atividade em grupo, tem por objetivo a apresentação e desenvolvimento de softskills. Apresentação pessoal de hobbies, metas profissionais e outras informações pessoais. 
+Atividade em grupo, tem por objetivo a apresentação e desenvolvimento de Softskills. Apresentação pessoal de hobbies, metas profissionais e outras informações pessoais. 
 <img width="1919" height="940" alt="image" src="https://github.com/user-attachments/assets/6e8eb0dd-5b49-4d86-ba6f-0a78c0fe0166" />
 Link do arquivo: https://canva.link/me34hcfep2gwnjr
 
@@ -32,18 +32,18 @@ Link do arquivo: [Censo2022_5_perguntas.xlsx](https://github.com/user-attachment
 
 
 ## Analise de Dados abertos por meio de Dashbord 
-foram coletados dados de empresas multimodais da ANTT e feita uma analise respondida em forma de gráfico. Para a construção da analise de dados, foram usados o Power BI, Exel em linguagem DAX e construção de visualizações
+foram coletados dados de empresas multimodais da ANTT e feita uma analise respondida em forma de gráfico. Para a construção da analise de dados, foram usados o Power BI, Excel em linguagem DAX e construção de visualizações
 Analise: A- Quantas OTMs existem em cada cidade do Brasil?
 
 <img width="1311" height="739" alt="image" src="https://github.com/user-attachments/assets/dc0666cb-f73e-4285-84bd-fea656fe88dc" />
 Observando e interagindo com a visualização a cima, Manaus (87) possuí mais empresas certificadas do que São José dos Campos (4). Em razão da posição geográfica dos locais, e que Manaus é um polo industrial local.
 
 
-link da Fonte para construção do Power bi: https://github.com/user-attachments/files/32985187/Empresas_habilitadas_OTM_ANTT_analise.xlsx
+link da Fonte para construção do Power BI: https://github.com/user-attachments/files/32985187/Empresas_habilitadas_OTM_ANTT_analise.xlsx
 
 Arquivo do Power BI: (https://centropaulasouza-my.sharepoint.com/:u:/r/personal/vinicius_pereira61_aluno_cps_sp_gov_br/Documents/empresasmultimodais.pbix?d=wf8bdd41070f942aebb91358c1dc68988&csf=1&web=1&e=AyVZUc)
 
-# Construção da atividade de 5 perguntas no Power bi analisando dados da ANTT:
+# Construção da atividade de 5 perguntas no Power BI analisando dados da ANTT:
 Analise do arquivo da ANTT e resposta de 5 perguntas relacionadas com a Situação de Vigência e Adesão ao Decreto 1.563/95:
 <img width="1866" height="792" alt="image" src="https://github.com/user-attachments/assets/fd7e5256-d6d1-4193-b0de-076883c0f8a5" />
 Arquivo em construção: Transferindo arquivo do Excel para o Power BI:
