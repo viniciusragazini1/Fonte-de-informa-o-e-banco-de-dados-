@@ -44,7 +44,7 @@ Link do arquivo: [Censo2022_5_perguntas.xlsx](https://github.com/user-attachment
 
 
 ## Análise de Dados abertos por meio de Dashboard 
-Foram coletados dados de empresas multimodais da ANTT e feita uma analise respondida em forma de gráfico. Para a construção da analise de dados, foram usados o Power BI, Excel em linguagem DAX e construção de visualizações
+Foram coletados dados de empresas multimodais da ANTT e feita uma análise respondida em forma de gráfico. Para a construção da análise de dados, foram usados o Power BI, Excel em linguagem DAX e construção de visualizações
 Análise: A- Quantas OTMs existem em cada cidade do Brasil?
 
 <img width="1311" height="739" alt="image" src="https://github.com/user-attachments/assets/dc0666cb-f73e-4285-84bd-fea656fe88dc" />
@@ -53,7 +53,7 @@ Observando e interagindo com a visualização a cima, Manaus (87) possuí mais e
 
 link da Fonte para construção do Power BI: https://github.com/user-attachments/files/32985187/Empresas_habilitadas_OTM_ANTT_analise.xlsx
 
-Arquivo do Power BI: 
+Arquivo do Power BI: https://github.com/viniciusragazini1/Fonte-de-informa-o-e-banco-de-dados-/blob/main/empresasmultimodais.pbix
 
 # Construção da atividade de 5 perguntas no Power BI analisando dados da ANTT:
 A atividade consiste na construção de um painel no Power BI para analisar os dados disponibilizados pela ANTT sobre a adesão ao decreto e a situação de vigência. O objetivo é facilitar a visualização, o acompanhamento e a interpretação das informações, apoiando a análise da situação dos registros.
