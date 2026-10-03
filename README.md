@@ -53,7 +53,7 @@ Observando e interagindo com a visualização a cima, Manaus (87) possuí mais e
 
 link da Fonte para construção do Power BI: https://github.com/user-attachments/files/32985187/Empresas_habilitadas_OTM_ANTT_analise.xlsx
 
-Arquivo do Power BI: (https://centropaulasouza-my.sharepoint.com/:u:/r/personal/vinicius_pereira61_aluno_cps_sp_gov_br/Documents/empresasmultimodais.pbix?d=wf8bdd41070f942aebb91358c1dc68988&csf=1&web=1&e=AyVZUc)
+Arquivo do Power BI: 
 
 # Construção da atividade de 5 perguntas no Power BI analisando dados da ANTT:
 A atividade consiste na construção de um painel no Power BI para analisar os dados disponibilizados pela ANTT sobre a adesão ao decreto e a situação de vigência. O objetivo é facilitar a visualização, o acompanhamento e a interpretação das informações, apoiando a análise da situação dos registros.
