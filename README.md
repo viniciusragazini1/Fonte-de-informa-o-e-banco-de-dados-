@@ -43,7 +43,7 @@ Respostas obtidas:
 Link do arquivo: [Censo2022_5_perguntas.xlsx](https://github.com/user-attachments/files/32985262/Censo2022_5_perguntas.xlsx)
 
 
-## Analise de Dados abertos por meio de Dashbord 
+## Análise de Dados abertos por meio de Dashboard 
 Foram coletados dados de empresas multimodais da ANTT e feita uma analise respondida em forma de gráfico. Para a construção da analise de dados, foram usados o Power BI, Excel em linguagem DAX e construção de visualizações
 Análise: A- Quantas OTMs existem em cada cidade do Brasil?
 
