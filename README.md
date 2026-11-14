@@ -60,7 +60,7 @@ A atividade consiste na construção de um painel no Power BI para analisar os d
 <img width="1866" height="792" alt="image" src="https://github.com/user-attachments/assets/fd7e5256-d6d1-4193-b0de-076883c0f8a5" />
 [PowerBI_Operadores_Transporte_Multimodal.xlsx](https://github.com/user-attachments/files/32985512/PowerBI_Operadores_Transporte_Multimodal.xlsx)
 
-**Curso de Power BI – Certificação**
+# Curso de Power BI – Certificação**
 
 Concluí um curso de Power BI, desenvolvendo conhecimentos em análise de dados, criação de relatórios, visualizações interativas e utilização de ferramentas de Business Intelligence.
 
