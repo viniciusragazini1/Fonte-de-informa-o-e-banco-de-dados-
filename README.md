@@ -89,4 +89,4 @@ O projeto apresenta:
 A atividade permitiu aplicar conceitos de Business Intelligence, análise de dados e construção de dashboards interativos, transformando dados em informações visuais para facilitar a interpretação.
 
 <img width="1328" height="747" alt="image" src="https://github.com/user-attachments/assets/4f1246ae-ed83-4051-8658-d9cad3c26de2" />
-
+Vídeo demonstrativo: https://github.com/viniciusragazini1/Fonte-de-informa-o-e-banco-de-dados-/blob/main/Grava%C3%A7%C3%A3o%20de%20Tela%202026-11-13%20221828.mp4
