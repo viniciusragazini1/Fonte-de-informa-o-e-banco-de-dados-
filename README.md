@@ -74,7 +74,7 @@ Desenvolvimento de um gráfico de dispersão para analisar a relação entre a i
 
 O objetivo foi utilizar a visualização de dados para identificar padrões, tendências e possíveis correlações entre as duas variáveis.
 <img width="1511" height="738" alt="Captura de tela 2026-11-13 221447" src="https://github.com/user-attachments/assets/9ff3c8b7-46a8-44db-b735-cf3a0db5480d" />
-
+https://github.com/viniciusragazini1/Fonte-de-informa-o-e-banco-de-dados-/raw/refs/heads/main/atividade3.p.p.pbix
 
 
 **Visualizações de Dados – Análise de Investimentos**
