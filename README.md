@@ -58,7 +58,15 @@ Arquivo do Power BI: https://github.com/viniciusragazini1/Fonte-de-informa-o-e-b
 # Construção da atividade de 5 perguntas no Power BI analisando dados da ANTT:
 A atividade consiste na construção de um painel no Power BI para analisar os dados disponibilizados pela ANTT sobre a adesão ao decreto e a situação de vigência. O objetivo é facilitar a visualização, o acompanhamento e a interpretação das informações, apoiando a análise da situação dos registros.
 <img width="1866" height="792" alt="image" src="https://github.com/user-attachments/assets/fd7e5256-d6d1-4193-b0de-076883c0f8a5" />
-Arquivo em construção: Transferindo arquivo do Excel para o Power BI:
 [PowerBI_Operadores_Transporte_Multimodal.xlsx](https://github.com/user-attachments/files/32985512/PowerBI_Operadores_Transporte_Multimodal.xlsx)
+
+**Curso de Power BI – Certificação**
+
+Concluí um curso de Power BI, desenvolvendo conhecimentos em análise de dados, criação de relatórios, visualizações interativas e utilização de ferramentas de Business Intelligence.
+
+Mais um passo no desenvolvimento de habilidades voltadas à tecnologia, análise de informações e melhoria na tomada de decisões.
+Arquivo em construção: Transferindo arquivo do Excel para o Power BI:
+<img width="1116" height="791" alt="Captura de tela 2026-11-13 215237" src="https://github.com/user-attachments/assets/dfb9c547-0b89-424f-b9bc-91975f02c91f" />
+
 
 
