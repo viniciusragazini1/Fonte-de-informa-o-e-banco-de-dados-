@@ -68,5 +68,12 @@ Mais um passo no desenvolvimento de habilidades voltadas à tecnologia, análise
 Arquivo em construção: Transferindo arquivo do Excel para o Power BI:
 <img width="1116" height="791" alt="Captura de tela 2026-11-13 215237" src="https://github.com/user-attachments/assets/dfb9c547-0b89-424f-b9bc-91975f02c91f" />
 
+# Gráfico de Dispersão – Análise da Idade Média ao Casar**
+
+Desenvolvimento de um gráfico de dispersão para analisar a relação entre a idade média dos homens ao casar (eixo X) e a idade média das mulheres ao casar (eixo Y).
+
+O objetivo foi utilizar a visualização de dados para identificar padrões, tendências e possíveis correlações entre as duas variáveis.
+<img width="1511" height="738" alt="Captura de tela 2026-11-13 221447" src="https://github.com/user-attachments/assets/9ff3c8b7-46a8-44db-b735-cf3a0db5480d" />
+
 
 
