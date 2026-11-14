@@ -75,5 +75,16 @@ Desenvolvimento de um gráfico de dispersão para analisar a relação entre a i
 O objetivo foi utilizar a visualização de dados para identificar padrões, tendências e possíveis correlações entre as duas variáveis.
 <img width="1511" height="738" alt="Captura de tela 2026-11-13 221447" src="https://github.com/user-attachments/assets/9ff3c8b7-46a8-44db-b735-cf3a0db5480d" />
 
+**Visualizações de Dados – Análise de Investimentos**
 
+Desenvolvimento de três visualizações utilizando o Power BI para explorar e analisar dados relacionados a investimentos.
+
+O projeto apresenta:
+- **Mapa geográfico:** identificação dos municípios com maior volume de investimentos.
+- **Município x Setor econômico:** análise da distribuição dos investimentos por município e setor econômico.
+- **Visualização complementar:** criação de um gráfico adicional para explorar os dados sob uma nova perspectiva.
+
+A atividade permitiu aplicar conceitos de Business Intelligence, análise de dados e construção de dashboards interativos, transformando dados em informações visuais para facilitar a interpretação.
+
+<img width="1328" height="747" alt="image" src="https://github.com/user-attachments/assets/4f1246ae-ed83-4051-8658-d9cad3c26de2" />
 
