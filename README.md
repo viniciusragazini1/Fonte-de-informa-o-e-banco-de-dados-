@@ -87,6 +87,14 @@ Modelo de regressão linear desenvolvido no Google Colab para analisar a relaç�
 <img width="1447" height="584" alt="Captura de tela 2026-11-27 150340" src="https://github.com/user-attachments/assets/150a4ceb-bb85-4b72-89c4-13f944c9c3ca" />
 Link do arquivo: https://github.com/viniciusragazini1/Fonte-de-informa-o-e-banco-de-dados-/tree/main
 
+# Dashboard de Expectativa de Vida — Power BI
+
+Dashboard desenvolvido no Power BI com três visualizações:
+- Evolução da expectativa de vida mundial.
+- Dez menores expectativas de vida em 2023.
+- Dez maiores expectativas de vida em 2023.
+<img width="1411" height="796" alt="Captura de tela 2026-11-27 152532" src="https://github.com/user-attachments/assets/6fcc2afa-0a04-4dbd-bd2d-ac8bb8202a54" />
+
 
 # Gráfico de Dispersão – Análise da Idade Média ao Casar**
 
