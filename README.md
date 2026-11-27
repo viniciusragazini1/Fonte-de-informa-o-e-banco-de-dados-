@@ -94,7 +94,7 @@ Dashboard desenvolvido no Power BI com três visualizações:
 - Dez menores expectativas de vida em 2023.
 - Dez maiores expectativas de vida em 2023.
 <img width="1411" height="796" alt="Captura de tela 2026-11-27 152532" src="https://github.com/user-attachments/assets/6fcc2afa-0a04-4dbd-bd2d-ac8bb8202a54" />
-
+Link do arquivo: https://github.com/viniciusragazini1/Fonte-de-informa-o-e-banco-de-dados-/blob/main/gith%20(1).pbix
 
 # Gráfico de Dispersão – Análise da Idade Média ao Casar**
 
