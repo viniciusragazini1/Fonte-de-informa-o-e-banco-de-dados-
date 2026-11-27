@@ -69,6 +69,18 @@ Mais um passo no desenvolvimento de habilidades voltadas à tecnologia, análise
 Arquivo em construção: Transferindo arquivo do Excel para o Power BI:
 <img width="1116" height="791" alt="Captura de tela 2026-11-13 215237" src="https://github.com/user-attachments/assets/dfb9c547-0b89-424f-b9bc-91975f02c91f" />
 
+Usando planilha eletrônica (Excel), construir um gráfico de dispersão, sendo:                                                           x ->horas de estudo                                                                                                                                      e y ->nota da prova
+Usando regressão linear, responder:  mais horas de estudo estão associadas a notas maiores?
+Usando o Google Colab, fazer um modelo de regr
+
+# gráfico de dispersão no Excel Horas de estudos:
+<img width="1567" height="763" alt="Captura de tela 2026-11-27 144811" src="https://github.com/user-attachments/assets/cadb70a5-e0e4-4d14-b35b-89ebcca39a40" />
+
+Foi criado um gráfico de dispersão no Excel para analisar a relação entre as horas de estudo e as notas da prova, utilizando regressão linear.
+
+**Conclusão:** Sim, mais horas de estudo estão associadas a notas maiores. A análise indicou que cada hora adicional de estudo está associada, em média, a um aumento de aproximadamente 1,63 ponto na nota prevista.
+<img width="1023" height="611" alt="Captura de tela 2026-11-27 144824" src="https://github.com/user-attachments/assets/880fae4d-02d3-400b-81f4-d666a673e4a8" />
+
 # Gráfico de Dispersão – Análise da Idade Média ao Casar**
 
 Desenvolvimento de um gráfico de dispersão para analisar a relação entre a idade média dos homens ao casar (eixo X) e a idade média das mulheres ao casar (eixo Y).
