@@ -96,6 +96,11 @@ Dashboard desenvolvido no Power BI com três visualizações:
 <img width="1411" height="796" alt="Captura de tela 2026-11-27 152532" src="https://github.com/user-attachments/assets/6fcc2afa-0a04-4dbd-bd2d-ac8bb8202a54" />
 Link do arquivo: https://github.com/viniciusragazini1/Fonte-de-informa-o-e-banco-de-dados-/blob/main/gith%20(1).pbix
 
+# Power BI com figuras
+Dashboard desenvolvido no Power BI para visualizar a população estimada dos estados brasileiros por meio de mapa interativo, tabela e bandeiras estaduais.
+<img width="1247" height="723" alt="Captura de tela 2026-11-27 171712" src="https://github.com/user-attachments/assets/bfd8d64d-a89f-4646-a491-62ba6a0741a4" />
+
+
 # Gráfico de Dispersão – Análise da Idade Média ao Casar**
 
 Desenvolvimento de um gráfico de dispersão para analisar a relação entre a idade média dos homens ao casar (eixo X) e a idade média das mulheres ao casar (eixo Y).
