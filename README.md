@@ -80,6 +80,7 @@ Foi criado um gráfico de dispersão no Excel para analisar a relação entre as
 
 **Conclusão:** Sim, mais horas de estudo estão associadas a notas maiores. A análise indicou que cada hora adicional de estudo está associada, em média, a um aumento de aproximadamente 1,63 ponto na nota prevista.
 <img width="1023" height="611" alt="Captura de tela 2026-11-27 144824" src="https://github.com/user-attachments/assets/880fae4d-02d3-400b-81f4-d666a673e4a8" />
+Link do arquivo: https://github.com/viniciusragazini1/Fonte-de-informa-o-e-banco-de-dados-/tree/main
 
 # Gráfico de Dispersão – Análise da Idade Média ao Casar**
 
