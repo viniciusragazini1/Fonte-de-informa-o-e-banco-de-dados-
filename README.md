@@ -99,6 +99,7 @@ Link do arquivo: https://github.com/viniciusragazini1/Fonte-de-informa-o-e-banco
 # Power BI com figuras
 Dashboard desenvolvido no Power BI para visualizar a população estimada dos estados brasileiros por meio de mapa interativo, tabela e bandeiras estaduais.
 <img width="1247" height="723" alt="Captura de tela 2026-11-27 171712" src="https://github.com/user-attachments/assets/bfd8d64d-a89f-4646-a491-62ba6a0741a4" />
+Link do arquivo: https://github.com/viniciusragazini1/Fonte-de-informa-o-e-banco-de-dados-/blob/main/gith%20bandeiras%20.pbix
 
 
 # Gráfico de Dispersão – Análise da Idade Média ao Casar**
