@@ -82,6 +82,11 @@ Foi criado um gráfico de dispersão no Excel para analisar a relação entre as
 <img width="1023" height="611" alt="Captura de tela 2026-11-27 144824" src="https://github.com/user-attachments/assets/880fae4d-02d3-400b-81f4-d666a673e4a8" />
 Link do arquivo: https://github.com/viniciusragazini1/Fonte-de-informa-o-e-banco-de-dados-/tree/main
 
+# Modelo de regressão linear Google Colab
+Modelo de regressão linear desenvolvido no Google Colab para analisar a relação entre horas de estudo e notas da prova. Os resultados indicam uma associação positiva entre as variáveis, com R² de 0,6033.
+<img width="1447" height="584" alt="Captura de tela 2026-11-27 150340" src="https://github.com/user-attachments/assets/150a4ceb-bb85-4b72-89c4-13f944c9c3ca" />
+
+
 # Gráfico de Dispersão – Análise da Idade Média ao Casar**
 
 Desenvolvimento de um gráfico de dispersão para analisar a relação entre a idade média dos homens ao casar (eixo X) e a idade média das mulheres ao casar (eixo Y).
