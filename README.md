@@ -1,7 +1,7 @@
 # Fonte-de-informa-o-e-banco-de-dados-
 Atividades desenvolvidas durante o 1° semestre em Fonte de informações e banco de dados. GPI-FATEC VINICIUS RAGAZINI 
 
-# Apresentação pessoal:
+
 Atividade em grupo, tem por objetivo a apresentação e desenvolvimento de Softskills. Apresentação pessoal de hobbies, metas profissionais e outras informações pessoais. 
 <img width="1919" height="940" alt="image" src="https://github.com/user-attachments/assets/6e8eb0dd-5b49-4d86-ba6f-0a78c0fe0166" />
 Link do arquivo: https://canva.link/me34hcfep2gwnjr
